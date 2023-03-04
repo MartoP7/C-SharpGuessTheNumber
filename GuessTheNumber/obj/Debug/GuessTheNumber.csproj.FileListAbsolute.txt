@@ -1,0 +1,7 @@
+D:\Projects\VisualStudioProjects\Programirane\GuessNumberGame\GuessTheNumber\bin\Debug\GuessTheNumber.exe.config
+D:\Projects\VisualStudioProjects\Programirane\GuessNumberGame\GuessTheNumber\bin\Debug\GuessTheNumber.exe
+D:\Projects\VisualStudioProjects\Programirane\GuessNumberGame\GuessTheNumber\bin\Debug\GuessTheNumber.pdb
+D:\Projects\VisualStudioProjects\Programirane\GuessNumberGame\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.AssemblyReference.cache
+D:\Projects\VisualStudioProjects\Programirane\GuessNumberGame\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudioProjects\Programirane\GuessNumberGame\GuessTheNumber\obj\Debug\GuessTheNumber.exe
+D:\Projects\VisualStudioProjects\Programirane\GuessNumberGame\GuessTheNumber\obj\Debug\GuessTheNumber.pdb
